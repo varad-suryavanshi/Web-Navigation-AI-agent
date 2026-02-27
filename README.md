@@ -246,11 +246,6 @@ Notes:
 
 ---
 
-## License
-
-MIT. See `LICENSE` (add one if you don’t have it yet).
-
----
 
 ## Acknowledgments
 
